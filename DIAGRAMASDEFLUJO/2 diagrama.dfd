@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+"Ingresa tu edad"
+5
+1
+4
+EDAD
+7
+0
+1
+26
+( EDAD>0 ) and (EDAD<120 )
+4
+1
+38
+"Ingrese un  numero desde 0 hasta 120"
+13
+7
+0
+1
+7
+EDAD>18
+4
+1
+40
+"Eres un pelao todavia te falta proceso"
+13
+4
+1
+25
+"Pongase a trabajar mijo"
+13
+13
+1

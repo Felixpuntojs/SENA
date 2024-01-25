@@ -1,0 +1,1565 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+7
+0
+1
+12
+N<3 AND N>=1
+4
+1
+10
+"TA LUEGO"
+13
+7
+0
+1
+3
+N=1
+4
+1
+27
+"INGRESAR VALORES A RESTAR"
+5
+1
+5
+R1,R2
+6
+1
+5
+RESTA
+5
+R1-R2
+4
+1
+24
+"EL RESULTADO ES:",RESTA
+13
+4
+1
+26
+"INGRESAR VALORES A SUMAR"
+5
+1
+5
+S1,S2
+6
+1
+4
+SUMA
+5
+S1+S2
+4
+1
+23
+"EL RESULTADO ES:",SUMA
+13
+4
+1
+217
+"MENU:","          ","1","SUMAR","                                                                              ","2","RESTAR","                                                                            ","3","SALIR"
+5
+1
+1
+N
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+1

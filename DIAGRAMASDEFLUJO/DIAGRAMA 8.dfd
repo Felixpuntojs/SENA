@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+"INGRESE NUMERO ENTERO"
+5
+1
+2
+NE
+6
+1
+2
+RC
+4
+NE^3
+4
+1
+28
+"LA POTENCIA CUBICA ES:", RC
+6
+1
+3
+RAC
+8
+sqrt(RC)
+4
+1
+26
+"LA RAIZ CUADRADA ES:",RAC
+4
+1
+15
+"QUE BENDICION"
+1

@@ -1,0 +1,115 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+"INGRESE PRECIO DE UVA PAI"
+5
+1
+1
+P
+4
+1
+21
+"INGRESE TIPO DE UVA"
+5
+1
+2
+TI
+4
+1
+16
+"INGRESE TAMAÑO"
+5
+1
+2
+TA
+4
+1
+18
+"INGRESE CANTIDAD"
+5
+1
+1
+K
+7
+0
+1
+15
+TI="A" AND TA=1
+13
+6
+1
+2
+GA
+5
+20000
+4
+1
+18
+"GANANCIA   ",K*GA
+13
+7
+0
+1
+15
+TI="A" AND TA=2
+13
+6
+1
+2
+GA
+5
+30000
+4
+1
+17
+"GANANCIA  ",K*GA
+13
+7
+0
+1
+15
+TI="B" AND TA=1
+13
+6
+2
+1
+P
+7
+P-15000
+2
+GA
+3
+P*K
+4
+1
+15
+"GANANCIA  ",GA
+13
+7
+0
+1
+15
+TI="B" AND TA=2
+13
+6
+2
+1
+P
+7
+P-25000
+2
+GA
+3
+P*K
+4
+1
+15
+"GANANCIA  ",GA
+13
+1

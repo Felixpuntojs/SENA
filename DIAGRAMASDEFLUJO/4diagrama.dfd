@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+"Ingrese las notas"
+5
+1
+10
+N1, N2, N3
+7
+0
+1
+55
+N1>0 and N1<=10 and N2>0 and N2<=10 and N3>0 and N3<=10
+4
+1
+7
+"error"
+13
+6
+1
+4
+PROM
+12
+(N1+N2+N3)/3
+7
+0
+1
+7
+PROM>=7
+7
+0
+1
+7
+PROM>=4
+4
+1
+21
+"Reprobado por bruto"
+13
+4
+1
+9
+"Regular"
+13
+13
+4
+1
+27
+"Promcionado que bendicion"
+13
+13
+1
