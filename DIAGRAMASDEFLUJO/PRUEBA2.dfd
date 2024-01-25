@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+CONT
+1
+0
+4
+SUMA
+1
+0
+5
+1
+1
+N
+9
+1
+5
+N !=0
+6
+2
+4
+CONT
+6
+CONT+1
+4
+SUMA
+6
+SUMA+N
+5
+1
+1
+N
+11
+4
+1
+63
+"CANTIDAD DE NUMEROS   ",CONT,"   RESULTADO DE LA SUMA:  ",SUMA
+1
