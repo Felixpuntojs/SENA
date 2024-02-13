@@ -1,0 +1,45 @@
+Algoritmo HELADERIA
+	CONT1<-0
+	CONT2<-0
+	CONT3<-0
+	CONT4<-0
+	Escribir "INGRESE CANTIDAD DE SANDWICHES VENDIDOS"
+	Leer CANT
+	Escribir "1. MODERADO:12500"
+	Escribir "2. MEDIANO:16000"
+	Escribir "3. EXTRA GRANDE:22000"
+	Escribir "4. FULL: 32500"
+	Para CONT<-1 Hasta CANT Con Paso 1 Hacer
+		Escribir "INGRESE TIPO DE SANDWICH"
+		Leer TIPO
+		Segun TIPO Hacer
+			1:
+				MODERADO<-12500
+				CONT1<-CONT1+1
+				TMOD<-CONT*MODERADO
+	         2:
+				 MEDIANO<-16000
+				 CONT2<-CONT2+1
+				 TMED<-CONT2*MEDIANO
+			3:
+				EXTRA_GRANDE<-22000
+				CONT3<-CONT3+1
+				TEXT<-CONT3*EXTRA_GRANDE
+			4:
+				FULL<-32500
+				CONT4<-CONT4+1
+				TFULL<-CONT4*FULL
+			De Otro Modo:
+				Escribir "ERROR COSTO 0"
+				
+				
+		Fin Segun
+		TOTAL<-TMOD+TMED+TEXT+TFULL
+		SERVICIO<-TOTAL*5
+		SERVICIO<-SERVICIO/100
+		PROP<-TOTAL*2
+		PROP<-PROP/100
+		PAGO<-TOTAL+SERVICIO+PROP
+	Fin Para
+	Escribir "EL TOTAL ES",PAGO     
+FinAlgoritmo

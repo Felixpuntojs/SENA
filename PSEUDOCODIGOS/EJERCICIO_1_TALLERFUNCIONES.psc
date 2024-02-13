@@ -1,0 +1,16 @@
+Funcion CANTIDADDEDIVISORES <- D ( NUM )
+	Para A<-1 Hasta NUM Con Paso 1 Hacer
+		X=NUM MOD A
+		SI X=0 Entonces
+			CANTIDADDEDIVISORES=CANTIDADDEDIVISORES+1
+		FinSi
+	Fin Para
+	Fin Funcion
+	Algoritmo EJERCICIO_1_TALLERFUNCIONES
+		LEER NUM
+		CANTIDADDEDIVISORES <- D ( NUM )
+	Escribir CANTIDADDEDIVISORES
+	
+	
+	
+FinAlgoritmo
