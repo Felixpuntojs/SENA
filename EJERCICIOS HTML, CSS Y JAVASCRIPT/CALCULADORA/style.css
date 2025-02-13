@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background: linear-gradient(45deg, green , white);
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.calculator{
+    position: relative;
+    height: auto;
+    width: auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px green;
+    background-color: aliceblue;
+    #display{
+        color: rgb(5, 5, 5);
+        margin: 0 10px;
+        height: 120px;
+        width: auto;
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-end;
+        font-size: 30px;
+        margin-bottom: 20px;
+        font-weight: 800;
+    }
+
+    &.dark{
+        background-color: black;
+        #display{
+            color: white;
+        }
+        #clear{
+            background-color: rgba(0, 0, 255, 0.603);
+            color: white;
+        }
+        .btn-number{
+            background-color: rgba(0, 128, 0, 0.678);
+            color: white;
+            font-weight: 600;
+        }
+        .btn-operator{
+            background-color: rgba(255, 166, 0, 0.726);
+            color: white;
+        }
+        .btn-equal{
+            background-color: rgba(255, 68, 0, 0.692);
+            color: white;
+        }
+    }
+    
+   
+    
+}
+button#clear{
+    background-color: blue;
+    color: white;
+}
+
+.btn-number{
+    background-color: green;
+    color: white;
+}
+
+.btn-operator{
+    background-color: orange;
+    color: white;
+}
+
+.btn-equal{
+    background-color: orangered;
+    color: white;
+}
+
+.theme-toggler{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    color: white;
+    cursor: pointer;
+    z-index: 1;
+    &::before{
+        content:'';
+        position: absolute;
+        height: 30px;
+        width: 30px;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: 50%;
+        background-color: gray;
+        z-index: -1;
+
+    }
+}
+.theme-toggler .active{
+    color: black;
+    &::before{
+        background-color: rgb(255, 255, 255);
+    }
+}
+
+button{
+    height: 60px;
+    width: 60px;
+    border: 0;
+    border-radius: 30px;
+    margin: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    &:hover{
+        transform: scale(1.1);
+    }
+}
+
+#equal{
+    height: 130px;
+}
+
